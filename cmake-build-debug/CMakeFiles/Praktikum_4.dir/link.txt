@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Praktikum_4.dir/main.c.o CMakeFiles/Praktikum_4.dir/dateiFunktionen.c.o CMakeFiles/Praktikum_4.dir/quickSort.c.o  -o Praktikum_4 

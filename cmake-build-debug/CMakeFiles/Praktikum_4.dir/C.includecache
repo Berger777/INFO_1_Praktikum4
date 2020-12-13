@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matze/Desktop/Einfuehrung in die Informatik/Praktikum_4/main.c
+stdio.h
+-
+std.h
+/home/matze/Desktop/Einfuehrung in die Informatik/Praktikum_4/std.h
+stdlib.h
+-
+string.h
+-
+time.h
+-
+zconf.h
+-
+
+/home/matze/Desktop/Einfuehrung in die Informatik/Praktikum_4/std.h
+

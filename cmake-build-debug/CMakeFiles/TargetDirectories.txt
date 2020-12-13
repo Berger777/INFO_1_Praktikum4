@@ -1,0 +1,3 @@
+/home/matze/Desktop/Einfuehrung in die Informatik/Praktikum_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matze/Desktop/Einfuehrung in die Informatik/Praktikum_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matze/Desktop/Einfuehrung in die Informatik/Praktikum_4/cmake-build-debug/CMakeFiles/Praktikum_4.dir
